@@ -2,7 +2,7 @@
 
 ***Carousel of movies coming from the IMDB API***
 
-<img src="/images/Screen Shot 2021-09-16 at 21.39.31.png">
+<img src="Screen Shot 2021-09-19 at 2.53.54">
 
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
