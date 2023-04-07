@@ -1,6 +1,6 @@
 # netflix2
 
-***Carousel of movies coming from the IMDB API [Click Here](http://netflix2.sah-dev.xyz) ***
+***Carousel of movies coming from the IMDB API [Click Here](http://netflix2.sah-dev.xyz)***
 
 <img src="Screen Shot 2021-09-19 at 2.53.54.png">
 
